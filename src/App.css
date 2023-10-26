@@ -1,0 +1,132 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.card-price{
+  text-decoration: none;
+  color: rebeccapurple;
+}
+.single-p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.desc{
+width: 450px;
+}
+.line{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid black;
+  margin-bottom: 1rem;
+}
+.amt-toggl{
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+.btn{
+  border: none;
+}
+.ct{
+  font-size: 18px;
+}
+
+.cart_heading-grid-grid-five-column{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.container {
+  max-width: 120rem;
+  margin: 100px auto;
+}
+.empty{
+  text-align: center;
+}
+.announce{
+  height:30px;
+background-color:teal;
+color:white;
+display:flex;
+justify-content:center;
+align-items:center;
+font-size:14px;
+}
+.wrap{
+  padding:10px 20px;
+display:flex;
+justify-content:space-between;
+
+
+}
+
+.navi{
+  display: flex;
+}
+.tit{
+  margin-top: 50px;
+  text-align: center;
+  color: rgb(5, 80, 80);
+}
+.h-p{
+  padding: 0;
+  text-align: center;
+}
+.details{
+}
+.direction{
+  margin: 50px;
+  display: flex;
+  align-items: center;
+}
+.h-dir{
+  font-size: 25px;
+  position: relative;
+  top: 5px;
+}
+.c-h{
+  margin-top: 20px;
+  text-align: center;
+}
+.c-m{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cart{
+  font-size: 40px;
+  position: relative;
+  top: 10px;
+  margin-right: 10px;
+}
+.announce{
+  height:30px;
+background-color:teal;
+color:white;
+display:flex;
+justify-content:center;
+align-items:center;
+font-size:14px;
+}
+.menu{
+  font-size:14px;
+cursor:pointer;
+margin-left:25px;
+}
+.container{
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    flex-direction: column;
+}
+.prod{
+    display: flex;
+}

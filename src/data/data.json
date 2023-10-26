@@ -1,0 +1,225 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productPic": "https://m.media-amazon.com/images/I/7181NjMrq-L._SX569_.jpg",
+            "brand": "Lymio",
+            "description": "shirt for men || casual shirt for men || men stylish shirt. Style - Enhance your look by wearing this Casual Stylish Men's shirt, Team it with a pair of tapered denims Or Solid Chinos and Loafers for a fun Smart Casual look. Closure Type: Button; Collar Style: Printed",
+            "model":"Men Printed Shirt (Shed Floral)",
+            "discountPrise": 649,
+            "mrp": 699999,
+            "color": "white",
+            "fabric": "cotton",
+            "productType": "Shirts",
+            "usage": "male",
+            "rating": "4.5",
+            "siz": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "featured": true
+        },
+        {
+            "id": 2,
+            "productPic": "https://m.media-amazon.com/images/I/81SigpJN1KL._SX679_.jpg",
+            "brand": "Apple",
+            "description": "Experience the iPhone 15 your dynamic companion. Dynamic Island ensures you stay connected, bubbling up alerts seamlessly while you're busy. Its durable design features infused glass and aerospace-grade aluminum, making it dependable and resistant to water and dust. Capture life with precision using the 48 MP Main Camera, perfect for any shot. Powered by the A16 Bionic Processor, it excels in computational photography and more, all while conserving battery life. Plus, it's USB-C compatible, simplifying your charging needs. Elevate your tech game with the iPhone 15  innovation at your fingertips. Goodbye cable clutter, hello convenience.",
+            "discountPrise": "₹599",
+            "mrp": 14490000,
+            "model":"Apple iPhone 15 Pro (256 GB) - Blue Titanium",
+            "color": "blue",
+            "fabric": "denim",
+            "productType": "Mobiles",
+            "usage": "male",
+            "rating": "4.0",
+            "siz": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "featured": true
+        },
+        {
+            "id": 3,
+            "productPic": "https://m.media-amazon.com/images/I/61LNGJEMh0L._SX679_.jpg",
+            "brand": "Apple",
+            "description": " SUPERCHARGED BY M2 PRO OR M2 MAX — Take on demanding projects with the M2 Pro or M2 Max chip. M2 Pro has 12 CPU cores, 19 GPU cores and up to 32GB unified memory. M2 Max has 12 CPU cores, up to 38 GPU cores and up to 96GB unified memory.BEAUTIFUL PRO DISPLAY — The 16.2-inch Liquid Retina XDR display features Extreme Dynamic Range, over 1,000 nits of brightness for stunning HDR content and pro reference modes for doing your best work on the go.ADVANCED CAMERA AND AUDIO — Look sharp and sound great with a 1080p FaceTime HD camera, a studio-quality three-mic array, and a six-speaker sound system with Spatial Audio. ",
+            "discountPrise": 2199,
+            "mrp": 29440000,
+            "model":"MacBook Pro",
+            "color": "grey",
+            "fabric": "canvas",
+            "productType": "Laptops",
+            "usage": "male",
+            "rating": "3.8",
+            "siz": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "featured": true
+
+        },
+        {
+            "id": 4,
+            "productPic": "https://m.media-amazon.com/images/I/81TUMM6wbGL._SX522_.jpg",
+            "brand": "FOSSIL",
+            "description": "Black ion-plated stainless steel case and bracelet. Fixed black ion-plated bezel. Dark brown dial with luminous hands and index hour markers. Minute markers around the outer rim. Dial Type: Analog. Luminescent hands and markers. Date display between the 4 and 5 o'clock positions. Chronograph - three sub-dials displaying: 60 second, 60 minute and 24 hour. Quartz movement. Scratch resistant mineral crystal. Pull / push crown. Solid case back. Case diameter: 42 mm. Case thickness: 12 mm. Round case shape. Band width: 22 mm. Band length: 7 inches. Fold over clasp with a safety release. Water resistant at 50 meters / 165 feet. Functions: chronograph, date, hour, minute, second. Casual watch style. Fossil Machine Chronograph Dark Brown Dial Stainless Steel Men's Watch FS4682.",
+            "discountPrise":649,
+            "model":"MACHINE Analog Watch - For Men FS4487I",
+            "mrp": 4500000,
+            "color": "Black",
+            "fabric": "nylon",
+            "productType": "Watches",
+            "usage": "male",
+            "rating": "4.7",
+            "siz": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ],
+            "featured": true
+
+        },
+        {
+            "id": 5,
+            "productPic": "https://rukminim1.flixcart.com/image/495/594/kdnf98w0hlty2aw-0/jacket/2/u/g/m-1-aw18-zip-jacket-black-way-maniac-original-imafumytf7zgd6dz.jpeg?q=50&quot",
+            "brand": "Christy World",
+            "description": "Full Sleeve Solid Men Padded Jacket",
+            "discountPrise":649,
+            "mrp": 2999,
+            "color": "black",
+            "fabric": "cotton",
+            "productType": "t-shirt",
+            "usage": "male",
+            "rating": "3.0",
+            "siz": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ]
+        },
+        {
+            "id": 6,
+            "productPic": "https://rukminim1.flixcart.com/image/495/594/kz5vwy80/jacket/b/n/1/l-no-of130006-124-furo-original-imagb8gutzcvfgkr.jpeg?q=50&quot",
+            "brand": "Furo",
+            "description": "Full Sleeve Solid Men Sports Jacke",
+            "discountPrise": 1360,
+            "mrp": 3399,
+            "color": "green",
+            "fabric": "cotton",
+            "productType": "hoodie",
+            "usage": "male",
+            "rating": "4.0",
+            "siz": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ]
+
+        },
+        {
+            "id": 7,
+            "productPic": "https://rukminim1.flixcart.com/image/495/594/kg2l47k0/jacket/f/v/k/xl-aw18-zip-jacket-yellow-way-maniac-original-imafwdg3hqaykzga.jpeg?q=50&quot",
+            "brand": "MANIAC",
+            "description": "Full Sleeve Colorblock Men Bomber Jacket ",
+            "discountPrise": 429,
+            "mrp": 2019,
+            "color": "yellow",
+            "fabric": "cotton",
+            "productType": "hoodie",
+            "usage": "male",
+            "rating": "4.0",
+            "siz": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ]
+        },
+        {
+            "id": 8,
+            "productPic": "https://rukminim1.flixcart.com/image/495/594/xif0q/t-shirt/2/u/3/l-mens-t-d2-brucella-original-imaghyzyty4ugeyg.jpeg?q=50&quot",
+            "brand": "Brucella",
+            "description": "Printed Men Round Neck Grey T-Shirt",
+            "discountPrise":299,
+            "mrp": 1299,
+            "color": "ash",
+            "fabric": "cotton",
+            "productType": "t-shirt",
+            "usage": "male",
+            "rating": "4.9",
+            "siz": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ]
+        },
+        {
+            "id": 9,
+            "productPic": "https://rukminim1.flixcart.com/image/495/594/l41n2q80/t-shirt/q/n/j/l-1jgrf-013-blk-jugular-original-imagff7wfjvxtdjb.jpeg?q=50&quot",
+            "brand": "JUGULAR",
+            "description": "Printed Men Round Neck Black T-Shirt",
+            "discountPrise":289,
+            "mrp": 888,
+            "color": "Black",
+            "fabric": "crepe",
+            "productType": "t-shirt",
+            "usage": "male",
+            "rating": "5",
+            "siz": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ]
+        },
+        {
+            "id": 10,
+            "productPic": "https://rukminim1.flixcart.com/image/495/594/kq9ta4w0/t-shirt/o/t/d/s-723-6-ftx-original-imag4bhzkshdkr68.jpeg?q=50&quot",
+            "brand": "FTX ",
+            "description": "Solid Men Round Neck Blue T-Shirt",
+            "discountPrise":199,
+            "mrp": 599,
+            "color": "blue",
+            "fabric": "polyster",
+            "productType": "t-shirt",
+            "usage": "male",
+            "rating": "2.5",
+            "siz": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ]
+        },
+        {
+            "id": 22,
+            "productPic": "https://rukminim1.flixcart.com/image/580/696/l0lbrm80/kids-apparel-combo/x/l/5/12-13-years-3pc-325-new-makhi-check-zolario-original-imagccdeghncztuy.jpeg?q=50&quot",
+            "brand": "Zolario",
+            "description": "Boys Party(Festive) Waistco",
+            "discountPrise":317,
+            "mrp": 399,
+            "color": "grey",
+            "fabric": "flannel",
+            "productType": "kidsWear",
+            "usage": "kids",
+            "rating": "5",
+            "siz": [
+                "s",
+                "m",
+                "l",
+                "xl"
+            ]
+        }
+       
+    ]
+}
